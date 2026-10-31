@@ -1,0 +1,6 @@
+{
+  "name": "HumanAI Audit - Comprehensive Linguistic & Writing Quality Analyzer",
+  "description": "Professional linguistic audit suite featuring Streamlit-inspired interface, text & document ingestion, word and sentence statistics, vocabulary diversity, readability formulas, repetition detection, and multi-factor writing quality scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
